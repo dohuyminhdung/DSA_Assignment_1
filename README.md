@@ -1,5 +1,4 @@
 # DSA_Assignment_1
-Asignment 1 semester 232 from HCMUT, DSA subject. 
-This is my code on the assignment 1 of DSA subject from HCMUT semester 232.
-The assignment is about machine learning topic that predict a number from it image using kNN algorithm. 
-This code pass about >= 90% testcases provided.
+# Data Structures and Algorithms asignment 1 from HCMUT, semester 232
+The assignment focuses on a machine learning topic which involves predicting a number from its image using the kNN algorithm. It requires the implementation of problem-solving techniques with linked-lists data structures and their related algorithms. 
+This code pass 100% provided testcases.
